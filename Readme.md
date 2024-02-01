@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Яна Стратиенко](https://up.htmlacademy.ru/htmlcss/39/user/2434041).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Рыбаков] (https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
