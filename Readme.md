@@ -2,6 +2,7 @@
 
 * Студент: [Яна Стратиенко](https://up.htmlacademy.ru/htmlcss/39/user/2434041).
 * Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Сайт: [Мой проект Седона](https://strasti1.github.io/2434041-sedona-39/).
 
 ---
 
